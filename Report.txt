@@ -1,0 +1,19 @@
+Here is the progress report for "AI Enabled Fashion Designs from Sales Data"
+
+#### Week 1- 2 : April 1-15
+
+####  Research and Readings on the process and formulation of Schedule for the thesis wowrk #####
+  1. Extensive research on work, data sets and finding the ways to collect the data for the project work
+  2. Identified categories of fashion products for which data should be generated
+  3. Started scraping the data, collecting the data
+
+#### Week 3- 4 : April 15-30
+  1. Identified the sources for data generation (online retail websites)
+  2. Connected with company for data formats,type of file and other things for data collection and pre-processing
+  3. Worked on data generation for T shirts (1000 images, Format PNG, Size: 1024*1024 )
+  
+###  Week 4- 5 : May 1-15 
+  1. Learn about GANs
+  2. Implement basic GAN for Handwritten digits recognition in python. (For better outcomes, need tuning on GPU)
+  3. Working on Jeans data to scrape (1000 images, Format PNG, Size: 1024*1024 )
+  4. Working on GAN implementation for T Shirts (!!!!)
