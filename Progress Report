@@ -18,3 +18,13 @@ Here is the progress report for "AI Enabled Fashion Designs from Sales Data"
   2. Implement basic GAN for Handwritten digits recognition in python. (For better outcomes, need tuning on GPU)
   3. Working on Jeans data to scrape (1000 images, Format PNG, Size: 1024*1024 )
   4. Working on GAN implementation for T Shirts (!!!!)
+
+### Weekly Update on FashionAI (May 10-17)
+Last week I worked on:
+1. Data preparation for Jeans Images data to scrape (1000 images, Format PNG, Size: 1024*1024 )    
+2. GAN implementation for Images (still in progress)
+
+### This week I am working on: (May 17-24)
+1. Research about various types of GANs and implement one GAN.
+2. Identifying and Getting more fashion category data for model (So far I have 3-4 fashion items data ) 
+
